@@ -2,7 +2,7 @@
 
 *Aluna:* Letícia Queiroz dos Santos
 
-*Site publicado:* https://velvet-jazz-03.vercel.app/
+*Site publicado:* https://velvet-jazz01.vercel.app/
 
 *Briefing*
 
